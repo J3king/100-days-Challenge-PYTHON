@@ -27,4 +27,4 @@ Consistency beats intensity.
 By committing to small, meaningful progress every day, I aim to become a stronger developer and problem solver.
 This journey is not about perfection — it's about perseverance, growth, and passion for coding. 💻✨
 
-#A little progress each day adds up to big results
+A little progress each day adds up to big results
