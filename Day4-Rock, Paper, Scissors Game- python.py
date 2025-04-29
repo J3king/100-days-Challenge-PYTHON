@@ -16,7 +16,8 @@ while True:
 
     if user_choice == computer_choice:
         print("It's a tie!")
-        break
+        continue
+    # Check for win conditions
     elif (user_choice == "rock" and computer_choice == "scissors") or \
          (user_choice == "paper" and computer_choice == "rock") or \
          (user_choice == "scissors" and computer_choice == "paper"):
